@@ -45,13 +45,13 @@ with open(budget_data_csv, newline="") as csvfile:
     # Calculating the greatest increase in profits
     max_profit = max(total_month_change)
 
-    # Finding the date using the the index of the greatest increase in profits
+    # Finding the date using the index of the greatest increase in profits
     index_max_profit = date[total_month_change.index(max_profit)]
     
     # Calculating the greatest decrease in profits
     min_profit = min(total_month_change)
 
-    # Finding the date using the the index of the greatest decrease in profits
+    # Finding the date using the index of the greatest decrease in profits
     index_min_profit = date[total_month_change.index(min_profit)]
 
 
