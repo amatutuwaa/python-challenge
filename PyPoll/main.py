@@ -70,21 +70,8 @@ Total Votes:{total_votes}
 Winner: {winner}
 ----------------------------''')
 
-    print (f'''-----------------------------")
+    print (f'''-----------------------------
 Winner: {winner}
 ----------------------------''')
 
-
-
-
-# Printing the resutls on terminal
-# print (f"Election Results")
-# print (f"-------------------------------")
-# print (f"Total Votes: {total_votes}")
-# print (f"-------------------------------")
-# for candidate, votes in candidates_vote_count.items():
-    # print (candidate, ": ", str(candidates_vote_count[candidate]), "% ", votes)
-# print (f"-------------------------------")
-# print (f"Winner: {winner}")
-#print (f"-------------------------------")
 

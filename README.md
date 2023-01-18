@@ -16,7 +16,7 @@ This is a python script that analyses the financial records of a company. The sc
 
 In Addition to this, the script prints the final analysis to the terminal and exports it as a text file
 
-_____________________________________________________
+---
 
 # **PYPOLL**
 

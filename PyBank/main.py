@@ -4,7 +4,6 @@ import csv
 
 # Defining path for csv file 
 budget_data_csv = os.path.join("/Users/amatutuwaaosei-akoto/Desktop/python-challenge/PyBank/resources/budget_data.csv")
-# financial_analysis = ""
 
 # Storing data
 total_months = 0
@@ -75,13 +74,7 @@ analysis.close()
 
 
 
-# print (f"Financial Analyis")
-# print (f"_________________________________")
-# print (f"Total Months: {total_months}")       
-# print (f"Total: {net_total}")
-# print (f"Average Change: ${average_change}")
-# print (f"Createst Increase in Profits: {max_date} (${max_profit}")
-# print (f"Greatest Decrease in Profits: {min_date} (${min_profit}")
+
 
 
         
