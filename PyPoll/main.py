@@ -66,12 +66,12 @@ Total Votes:{total_votes}
         textfile.write(f'{candidate}: {vote_percentage[candidate]:.3f}% ({votes})\n')
         print(f'''{candidate}: {vote_percentage[candidate]:.3f}% ({votes})''')                
 
-    textfile.write(f'''---------------------------- 
+    textfile.write(f'''----------------------------- 
 Winner: {winner}
-----------------------------''')
+-----------------------------''')
 
     print (f'''-----------------------------
 Winner: {winner}
-----------------------------''')
+-----------------------------''')
 
 
