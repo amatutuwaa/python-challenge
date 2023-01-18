@@ -52,7 +52,7 @@ results_path = os.path.join('election_results.txt')
 with open(results_path, 'w', newline="") as textfile:
     
     textfile.write(f'''
-Eletion Results
+Election Results
 -----------------------------
 Total Votes:  {total_votes}
 -----------------------------\n''')
